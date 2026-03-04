@@ -39,7 +39,6 @@ dependencyResolutionManagement {
     }
 }
 
-// TODO Change root project name.
-rootProject.name = "android-project"
+rootProject.name = "math-eye-candy"
 
 include(":app")

@@ -8,14 +8,12 @@ titles_from_headings:
 prev_next_navigation:
 - bottom
 
-# TODO Modify the contents below for the specific project. NOTE THE INDENTATION!
-
-title: "Personal Android Project"
-description: "Trust me, it'll be cool!"
+title: "Math Eye Candy"
+description: "Drawing pictures with generative art algorithms."
 version: "1.0.0"
 author:
-  name: "DDC Student"
-  email: "myemail@student.cnm.edu"
+  name: "Nick Bennett"
+  email: "nick@nickbenn.com"
 
 # Do not change the following line.
   copyright: true
